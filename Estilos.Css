@@ -1,0 +1,23 @@
+*{font-family:arial;}
+
+body{background-image: url("img/wpp.jpg");}
+hr{border: 2px dotted yellow; border-radius: 25px;}
+h1{color:white;}
+h2{color:white;}
+
+table{color:white; font-weight:bold;}
+th{color:blue;}
+
+a{color:yellow;}
+a:hover{color:green;}
+
+input{border-radius:25px; padding:15px; width:350px; font-size:19px; text-decoration:none; border:3px dotted yellow; text-align:center;}
+input[type=text]{border-radius:25px; padding:15px; width:350px; font-size:19px; text-decoration:none; border:3px dotted gray; text-align:center;}
+input[type=password]{border-radius:25px; padding:15px; width:350px; font-size:19px; text-decoration:none; border:3px dotted gray; text-align:center;}
+input[type=file]{border-radius:25px; padding:15px; width:350px; font-size:19px; text-decoration:none; border:3px dotted gray; text-align:center;}
+input[type=submit]:hover{border:3px solid white; color:white; background:green;}
+
+select{border-radius:25px; padding:15px; width:350px; font-size:19px; text-decoration:none; border:3px dotted gray; text-align-last:center;}
+
+#close:hover{border:3px solid yellow; color:white; background:red;}
+#help:hover{border:3px solid white; color:white; background:#2e83ee;}
